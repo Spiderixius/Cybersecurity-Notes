@@ -3,13 +3,13 @@ attachments: [macAddress.PNG]
 tags: [Notebooks/Networking]
 title: MAC Address
 created: '2020-11-20T06:32:32.299Z'
-modified: '2020-11-20T07:40:45.944Z'
+modified: '2020-11-20T07:51:59.726Z'
 ---
 
 # MAC Address
 Everything that uses a network interface has a Media Access Control ([MAC](https://www.youtube.com/watch?v=UrG7RTWIJak)) address. It is used during the layer 2 of OSI model, meaning in Switches (not Nintendo).
 
-<img src="@attachment/macAddress.png" alt="Private Addresses" width="600"/>
+<img src="../attachments/macAddress.png" alt="Private Addresses" width="600"/>
 
 
 
