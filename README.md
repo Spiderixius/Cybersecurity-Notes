@@ -16,7 +16,7 @@ PING www.google.com (172.217.20.36) 56(84) bytes of data.
 # HOW TO
 To see the notes properly, you will need to download (Free): https://notable.app/
 
-Once you are in Noteable, click `Noteable` > `Change Data Directory` and navigate to `Cybersecurity-Notes-master`, select the folder and you should be able to see the images properly.
+Once you are in Noteable, click `Noteable` > `Change Data Directory` and navigate to `Cybersecurity-Notes-master`, select the folder and you should be able to see the notes properly and categorized after topic.
 
 # Disclaimer
 The knowledge contained within this repository is for educational purposes only. Nothing in this repository constitutes illegal activity. Respect the law in your government.
