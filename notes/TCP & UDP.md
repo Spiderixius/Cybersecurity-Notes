@@ -3,7 +3,7 @@ attachments: [tcp.PNG, tcpHandshake.png, tcpVSudp.PNG]
 tags: [Notebooks/Networking]
 title: TCP & UDP
 created: '2020-11-21T19:59:56.315Z'
-modified: '2020-11-21T20:56:51.481Z'
+modified: '2020-11-21T21:00:33.908Z'
 ---
 
 # TCP & UDP
@@ -27,7 +27,7 @@ Looking at the below example from Wireshark, we can observe that the source `192
 - **Step 2**: The target acknowledges the request `[SYN, ACK]`.
 - **Step 3**: The source acknowledges the connection and now data can be sent from port `49598` to target port `443` and vice versa. 
 
-<img src="../attachments/tcpHandshake.PNG" alt="TCP 3 way handshake" width="1000"/>
+<img src="../attachments/tcpHandshake.png" alt="TCP 3 way handshake" width="1000"/>
 
 ## User Datagram Protocol (UDP)
 A request/response oriented protocol who does not ensure that all datagram will arrive at the same time or arrive at all.
