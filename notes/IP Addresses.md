@@ -1,10 +1,9 @@
 ---
 attachments: [ipv4.PNG, ipv4PrivateAddresses.PNG, ipv6.PNG]
-favorited: true
 tags: [Notebooks/Networking]
 title: IP Addresses
 created: '2020-11-19T07:41:32.188Z'
-modified: '2020-11-20T07:55:48.661Z'
+modified: '2020-11-21T20:55:53.245Z'
 ---
 
 # IP Addresses
