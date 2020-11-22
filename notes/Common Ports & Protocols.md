@@ -3,7 +3,7 @@ attachments: [ports.PNG]
 tags: [Notebooks/Networking]
 title: Common Ports & Protocols
 created: '2020-11-22T11:43:38.041Z'
-modified: '2020-11-22T13:02:22.588Z'
+modified: '2020-11-22T13:06:46.623Z'
 ---
 
 # Common Ports & Protocols
@@ -46,4 +46,4 @@ A protocol that is responsible for assigning IP addresses to devices on a networ
 A simpler version of FTP that does not have all the functions that FTP has, only used for sending and receiving files between devices. Not widely used but CISCO still uses it on their devices, therefore worth a mention.
 
 ## SNMP (161)
-Used for monitoring devices on the network. When used it might contains useful information in form of strings that might be worth a look at.
+Used for monitoring devices on the network. When used it might contain useful information in form of strings that might be worth a look at. See this [quick guide](https://www.youtube.com/watch?v=2IXP0TkwNJU) for more information.
